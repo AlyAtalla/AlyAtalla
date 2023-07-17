@@ -40,7 +40,7 @@
 ## 🛠 Built With <a name="built-with"></a>
 Visual Studio Code using HTML,CSS, and javascript Languages
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack <a name="tech-stack"> HTML, CSS, JavaScript </a>
 
 <details>
 
