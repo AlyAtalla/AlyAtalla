@@ -4,7 +4,7 @@
 Full Stack Developer
 --------------------
 
-My name Aly Atalla, I'm a passionate programmer who love building solutions to make life much easier. I started programming with Dart and flutter. I'm currently learning Full Stack Development at Microverse, where I'm learning Html, Css, Sass, JS, React, and Ruby.
+My name is Aly Atalla, I'm a passionate programmer who love building solutions to make life much easier. I started programming with Dart and flutter. I'm currently learning Full Stack Development at Microverse, where I'm learning Html, Css, Sass, JS, React, and Ruby.
 * 🌍  I'm based in Egypt
 * 🖥️  See my portfolio at [alyatalla.github.io]
 * ✉️  You can contact me at [aliatalla93@gmail.com]
