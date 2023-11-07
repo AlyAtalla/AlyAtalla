@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Aly Atalla, Full-Stack Developer, currently in Module 2 at microverse school, Let's build something amazing together. currently open to work.
+👋 Hi, I'm Aly Atalla, Full-Stack Developer, currently in Module 5 at microverse full-stack programme, Let's build something amazing together. currently open to work.
 
 
 ## 🌐 Socials:
