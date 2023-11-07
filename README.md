@@ -17,7 +17,7 @@ My name Aly Atalla, I'm a passionate programmer who love building solutions to m
 
 
 <a href="https://www.hackerrank.com/alyatalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aly" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user_geekyhacks22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user_geekyhacks22" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/user_alyatalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user_geekyhacks22" height="30" width="40" /></a>
 </p>
 
 
