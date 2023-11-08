@@ -56,8 +56,6 @@ const Aly = {
 
 <p color="black" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alyatalla&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="aly" /></p>
 
-<p align="center"  > <img  width="130" height="35" src="https://komarev.com/ghpvc/?username=geekyhacks&label=Profile%20views&color=0e75b6&style=flat" alt="aly"  /> </p>
-
 </div>
 
 ---
