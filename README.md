@@ -52,10 +52,6 @@ const Aly = {
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alyatalla&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="geekyhacks" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alyatalla&&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&locale=en&layout=compact" alt="geekyhacks" /></p>
 
-<p color="black" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alyatalla&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="aly" /></p>
-
-</div>
 
 ---
