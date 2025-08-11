@@ -1,57 +1,70 @@
-<h1 align="left"> 
-    <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=fc9803&width=435&lines=Hi there, 👋 I'm Aly Atalla" alt="Typing SVG" />
+<h1 align="left">
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=fc9803&width=500&lines=Hi+there+👋,+I'm+Aly+Atalla" alt="Typing SVG" />
 </h1>
-Full Stack Developer
---------------------
 
-My name is Aly Atalla, I'm a passionate programmer who loves building solutions. I'm currently learning Full Stack Development at Microverse, where I'm learning Html, Css, Sass, JS, React, and Ruby.
-* 🌍  I'm based in Egypt
-* 🖥️  See my portfolio at [alyatalla.github.io]
-* ✉️  You can contact me at [aliatalla93@gmail.com]
-* 🤝  I'm available for hire and always looking for new challenges!
-- 📫 How to reach me:
+## Full Stack Developer
 
-<a href="https://twitter.com/alyatalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geekydart" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aly-atalla-8b83a0231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aly-711625268" height="30" width="40" /></a>
+I'm **Aly Atalla**, a passionate programmer who loves building creative and efficient solutions.  
+I specialize in **front-end and back-end development**, with experience in JavaScript, React, Ruby, and more.
 
+- 🌍  Based in **Egypt**
+- 🖥️  Portfolio: [alyatalla.github.io](https://alyatalla.github.io)
+- ✉️  Email: **aliatalla93@gmail.com**
+- 🤝  Open to new opportunities and challenges
 
+---
 
-<a href="https://www.hackerrank.com/alyatalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aly" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/alyatalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user_geekyhacks22" height="30" width="40" /></a>
+### 📫 Connect with me
+
+<a href="https://twitter.com/alyatalla" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter"/>
+</a>
+<a href="https://www.linkedin.com/in/aly-atalla-8b83a0231/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
+</a>
+<a href="https://www.hackerrank.com/alyatalla" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" alt="HackerRank"/>
+</a>
+<a href="https://auth.geeksforgeeks.org/user/alyatalla" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" alt="GeeksForGeeks"/>
+</a>
+
+---
+
+### 💻 Projects I'm working on
+- [Math Magicians SPA](https://github.com/alyatalla/math-magician)  
+- [Bookstore SPA](https://github.com/Alyatalla/oop-library)
+
+### 📚 Currently learning
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+- [React.js](https://react.dev)
+
+---
+
+### 🛠 Tech Stack
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
+  <a href="https://react.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/></a>
+  <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="Sass"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter"/></a>
+  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="Dart"/></a>
+  <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40" alt="Kotlin"/></a>
 </p>
 
+---
 
-> I’m currently working on:
-> > [Math Magicians SPA](https://github.com/alyatalla/math-magician) <br/>
-> > [Bookstore SPA](https://github.com/Alyatalla/oop-library) <br/>
-> 
-> I’m currently learning
-> > [JavaScript](https://developer.mozilla.org/ru/docs/Web/JavaScript) <br/>
-> > [React.js](https://ru.legacy.reactjs.org/)
->
-
-
-
-
-### Tech Stack
-
- <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  </p>
-
-### 🚀 A little more about me...
+### 🚀 A little more about me
 
 ```javascript
 const Aly = {
-  lookingFor: [Front_end_developer, Web_developer, Software_developer],
-  code: [JavaScript, Dart, Kotlin, Html, Css, Sass, Jest, webpack],
-  askMeAbout: [Javascript, sass, css],
-  hobbies: [Music,reading, writing, translation, Chess],
+  lookingFor: ["Front-end Developer", "Web Developer", "Software Developer"],
+  code: ["JavaScript", "Dart", "Kotlin", "HTML", "CSS", "Sass", "Jest", "Webpack"],
+  askMeAbout: ["JavaScript", "Sass", "CSS"],
+  hobbies: ["Music", "Reading", "Writing", "Translation", "Chess"]
 };
-```
-
-<div align='left'>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alyatalla&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="geekyhacks" /></p>
-
-
-
----
