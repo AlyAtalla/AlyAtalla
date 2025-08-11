@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/examples/banner_example.png" alt="Developer Banner" width="100%" />
+  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1400&q=80"
+       alt="Developer Banner"
+       style="max-width:100%;height:auto;border-radius:10px;" />
 </p>
 
 ## Full Stack Developer
