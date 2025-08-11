@@ -2,8 +2,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer at work GIF" height="200" />
 </p>
 
-
-
 ## Full Stack Developer
 
 I'm **Aly Atalla**, a passionate programmer who loves building creative and efficient solutions.  
@@ -16,32 +14,19 @@ I specialize in **front-end and back-end development**, with experience in JavaS
 
 ---
 
-### 📫 Connect with me
-
-<a href="https://twitter.com/alyatalla" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter"/>
-</a>
-<a href="https://www.linkedin.com/in/aly-atalla-8b83a0231/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
-</a>
-<a href="https://www.hackerrank.com/alyatalla" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" alt="HackerRank"/>
-</a>
-<a href="https://auth.geeksforgeeks.org/user/alyatalla" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" alt="GeeksForGeeks"/>
-</a>
+### ​ Projects I'm working on
+- [Math Magicians SPA](https://github.com/alyatalla/math-magician)  
+- [Bookstore SPA](https://github.com/Alyatalla/oop-library)  
+- [Budget Tracker](https://github.com/AlyAtalla/budget-app)
 
 ---
 
-### 💻 Projects I'm working on
-- [Math Magicians SPA](https://github.com/alyatalla/math-magician)  
-- [Bookstore SPA](https://github.com/Alyatalla/oop-library)
-
-### 📚 Currently learning
+### ​ Currently learning
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 - [React.js](https://react.dev)
 
 ---
+
 
 ### 🛠 Tech Stack
 
