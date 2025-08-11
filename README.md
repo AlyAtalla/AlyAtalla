@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1400&q=80"
-       alt="Developer Banner"
-       style="max-width:100%;height:auto;border-radius:10px;" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Animated%20Working%20Man.gif"
+       alt="Happy Coding GIF"
+       height="150" />
 </p>
+
 
 ## Full Stack Developer
 
