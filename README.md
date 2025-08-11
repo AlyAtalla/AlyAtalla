@@ -1,6 +1,6 @@
-<h1 align="left">
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=fc9803&width=500&lines=Hi+there+👋,+I'm+Aly+Atalla" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/examples/banner_example.png" alt="Developer Banner" width="100%" />
+</p>
 
 ## Full Stack Developer
 
